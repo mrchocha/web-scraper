@@ -1,0 +1,6 @@
+aiohttp==3.9.5
+aiohttp-retry==2.8.3
+beautifulsoup4==4.12.3
+fastapi==0.111.0
+html5lib==1.1
+pysondb==1.6.7
