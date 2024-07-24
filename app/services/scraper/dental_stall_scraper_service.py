@@ -147,7 +147,7 @@ class __DentalStallScraperService(IScraperService):
                 )
 
         return ProcessedProductMetadataModel(
-            create_count=create_count,
+            created_count=create_count,
             updated_count=updated_count,
             fetched_count=len(products),
         )
